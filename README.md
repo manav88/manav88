@@ -1,7 +1,7 @@
 ### Hi This is
 ### Manav Mangukiya
 
-## My Profiles 
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/manav-88">
