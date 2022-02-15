@@ -46,7 +46,8 @@
 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
-## My Github Stats
+
+### My Github Stats
 
 <a href="https://github.com/manav88/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manav88&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="manav's github stats" /></a> | <a href="https://github.com/manav88/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav88&layout=compact&theme=buefy&hide_border=true" /></a> |
 
